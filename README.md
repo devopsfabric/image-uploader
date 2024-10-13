@@ -1,5 +1,7 @@
 # README.md
 
+![2024-10-13_15-13-53.png](2024-10-13_15-13-53.png)
+
 ## Project Overview: AI Image Uploader
 
 Welcome to the **Image Uploader** module, newly rewritten using AI! 🎉 As your Product Manager, I took the liberty of spending 30 minutes to completely rewrite the image-uploading module from scratch using AI. It’s now blazing fast, highly efficient, and fully functional! You’re going to love it, I promise. 🚀
