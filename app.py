@@ -41,7 +41,7 @@ def upload_image():
         if image:
             image_path = os.path.join(gallery.directory, image.filename)
             image.save(image_path)
-            result = gallery.upload_image(image_path)
+            result = f"Image '{image.filename}' uploaded successfully."
             return f'''
             <!doctype html>
             <html lang="en">
